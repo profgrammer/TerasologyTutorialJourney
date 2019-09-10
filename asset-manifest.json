@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TerasologyTutorialJourney/static/css/main.9d623f32.chunk.css",
+    "main.js": "/TerasologyTutorialJourney/static/js/main.334bdc81.chunk.js",
+    "main.js.map": "/TerasologyTutorialJourney/static/js/main.334bdc81.chunk.js.map",
+    "runtime~main.js": "/TerasologyTutorialJourney/static/js/runtime~main.584550e5.js",
+    "runtime~main.js.map": "/TerasologyTutorialJourney/static/js/runtime~main.584550e5.js.map",
+    "static/js/2.31bf8e74.chunk.js": "/TerasologyTutorialJourney/static/js/2.31bf8e74.chunk.js",
+    "static/js/2.31bf8e74.chunk.js.map": "/TerasologyTutorialJourney/static/js/2.31bf8e74.chunk.js.map",
+    "index.html": "/TerasologyTutorialJourney/index.html",
+    "precache-manifest.6bd144509ad0a73beaa8f906208e289c.js": "/TerasologyTutorialJourney/precache-manifest.6bd144509ad0a73beaa8f906208e289c.js",
+    "service-worker.js": "/TerasologyTutorialJourney/service-worker.js",
+    "static/css/main.9d623f32.chunk.css.map": "/TerasologyTutorialJourney/static/css/main.9d623f32.chunk.css.map"
+  }
+}
