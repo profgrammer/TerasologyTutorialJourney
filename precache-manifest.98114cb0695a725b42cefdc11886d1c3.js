@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "713a88ee0835cfcf16881592f77722a2",
+    "revision": "9c93a806076a320a2145267f7b2204c0",
     "url": "/TerasologyTutorialJourney/index.html"
   },
   {
-    "revision": "02ee4aa94d5c3b6d2ec6",
+    "revision": "51e0939aed4f2f26e20d",
     "url": "/TerasologyTutorialJourney/static/css/main.9d623f32.chunk.css"
   },
   {
-    "revision": "fd385773f44a875756b2",
-    "url": "/TerasologyTutorialJourney/static/js/2.31bf8e74.chunk.js"
+    "revision": "e6d4b0c3334c451c6e43",
+    "url": "/TerasologyTutorialJourney/static/js/2.efaae311.chunk.js"
   },
   {
-    "revision": "02ee4aa94d5c3b6d2ec6",
-    "url": "/TerasologyTutorialJourney/static/js/main.334bdc81.chunk.js"
+    "revision": "51e0939aed4f2f26e20d",
+    "url": "/TerasologyTutorialJourney/static/js/main.81a5f12f.chunk.js"
   },
   {
     "revision": "61cd349886793326e903",

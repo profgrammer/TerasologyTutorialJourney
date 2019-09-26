@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TerasologyTutorialJourney/precache-manifest.6bd144509ad0a73beaa8f906208e289c.js"
+  "/TerasologyTutorialJourney/precache-manifest.98114cb0695a725b42cefdc11886d1c3.js"
 );
 
 self.addEventListener('message', (event) => {
