@@ -11,89 +11,25 @@ class App extends React.Component {
         step: 1,
         title: 'Player',
         current: true,
-        tutorials: [
-          {
-            title: 'World Generation Tutorial',
-            meta: 'A tutorial on the facet world generation system',
-            link: 'https://github.com/Terasology/TutorialWorldGeneration'
-          },
-          {
-            title: 'World Generation Tutorial',
-            meta: 'A tutorial on the facet world generation system',
-            link: 'https://github.com/Terasology/TutorialWorldGeneration'
-          },
-          {
-            title: 'World Generation Tutorial',
-            meta: 'A tutorial on the facet world generation system',
-            link: 'https://github.com/Terasology/TutorialWorldGeneration'
-          }
-        ]
+        data_url: "/src/data/path1.json"
       },
       {
         step: 2,
         title: 'Modder',
         current: false,
-        tutorials: [
-          {
-            title: 'NUI Tutorial',
-            meta: 'A series of tutorials for the NUI interface framework.',
-            link: 'https://github.com/Terasology/TutorialNui'
-          },
-          {
-            title: 'World Generation Tutorial',
-            meta: 'A tutorial on the facet world generation system',
-            link: 'https://github.com/Terasology/TutorialWorldGeneration'
-          },
-          {
-            title: 'World Generation Tutorial',
-            meta: 'A tutorial on the facet world generation system',
-            link: 'https://github.com/Terasology/TutorialWorldGeneration'
-          }
-        ]
+        data_url: "/src/data/path1.json"
       },
       {
         step: 3,
         title: 'Developer',
         current: false,
-        tutorials: [
-          {
-            title: 'Snake Tournament Tutorial',
-            meta: 'A module coding tutorial based on the classic Snake game',
-            link: 'https://github.com/Terasology/SnakeTournament'
-          },
-          {
-            title: 'World Generation Tutorial',
-            meta: 'A tutorial on the facet world generation system',
-            link: 'https://github.com/Terasology/TutorialWorldGeneration'
-          },
-          {
-            title: 'World Generation Tutorial',
-            meta: 'A tutorial on the facet world generation system',
-            link: 'https://github.com/Terasology/TutorialWorldGeneration'
-          }
-        ]
+        data_url: "/src/data/path1.json"
       },
       {
         step: 4,
         title: 'Artist',
         current: false,
-        tutorials: [
-          {
-            title: 'Asset System Tutorial',
-            meta: 'Tutorial module for the asset system.',
-            link: 'https://github.com/Terasology/TutorialAssetSystem'
-          },
-          {
-            title: 'World Generation Tutorial',
-            meta: 'A tutorial on the facet world generation system',
-            link: 'https://github.com/Terasology/TutorialWorldGeneration'
-          },
-          {
-            title: 'World Generation Tutorial',
-            meta: 'A tutorial on the facet world generation system',
-            link: 'https://github.com/Terasology/TutorialWorldGeneration'
-          }
-        ]
+        data_url: "/src/data/path1.json"
       }
     ]
   }
